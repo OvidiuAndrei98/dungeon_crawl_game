@@ -9,6 +9,14 @@ Table of Contents
 2. Getting Started
    - [Installation](https://github.com/OvidiuAndrei98/Joblish_web_application/tree/master/backend#installation)
 
+[![image.png](https://i.postimg.cc/DwcThB46/image.png)](https://postimg.cc/fVkFj7KS)
+
+
+
+[![image.png](https://i.postimg.cc/zX16fTrc/image.png)](https://postimg.cc/QV0049VQ)
+
+
+
 
 
 ### Built With
